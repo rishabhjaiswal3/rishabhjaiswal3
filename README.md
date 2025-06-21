@@ -6,9 +6,9 @@ I'm a passionate and enthusiastic **software developer** and **freelancer** who 
 
 ## 💻 Tech Stack
 
-- **Languages & Frameworks**: JavaScript, TypeScript, Node.js, Express, React
+- **Languages & Frameworks**: JavaScript, TypeScript, Node.js, Express, React, Solidity, React Native, Angular2.0  
 - **Databases**: MongoDB, SQL
-- **DevOps & Tools**: Docker, Kubernetes, Git, GitHub
+- **DevOps & Tools**: Docker, Kubernetes, Git, GitHub, SQS, EC2
 
 ## 🔧 What I Do
 
