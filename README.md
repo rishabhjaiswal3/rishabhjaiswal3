@@ -1,7 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=635&lines=Hi+there!+I'm+a+Software+Developer;Freelancer+%7C+Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=635&lines=Hi+there!+I+am+%7C+Rishabh+Jaiswal;I'm+a+Software+Developer;Freelancer+%7C+Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
 </p>
 
 ---
