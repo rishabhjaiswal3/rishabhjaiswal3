@@ -1,16 +1,25 @@
-## Hi there, Rishabh Here 👋
+# Hi there 👋 I'm a Software Developer
 
-<!--
-**rishabhjaiswal3/rishabhjaiswal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a passionate and enthusiastic **software developer** and **freelancer** who loves building, scaling, and experimenting with a wide range of technologies. I thrive in multi-project environments and enjoy solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages & Frameworks**: JavaScript, TypeScript, Node.js, Express, React
+- **Databases**: MongoDB, SQL
+- **DevOps & Tools**: Docker, Kubernetes, Git, GitHub
+
+## 🔧 What I Do
+
+- Freelance development for clients across domains
+- Build and contribute to open-source and personal projects
+- Explore modern tech stacks and development practices
+
+## 📫 Let’s Connect
+
+Feel free to reach out, collaborate, or just say hi!
+
+---
+
+🚀 *Always learning. Always building.*
